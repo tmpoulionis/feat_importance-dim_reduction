@@ -19,7 +19,7 @@ This repository contains two distinct projects focused on **feature importance**
    - Compared feature rankings from **Lasso coefficients**, **Random Forest**, **permutation importance**, and **XGBoost**.  
    - **Top 3 Most Important Features** (majority vote): `volatile acidity`, `alcohol`, and `free sulfur dioxide`.  
 
-    ![Example of feature importance results](images/XGB_importances.png)
+     <img src="images/XGB_importances.png" width="500" />
 
 ---
 
@@ -40,7 +40,7 @@ This repository contains two distinct projects focused on **feature importance**
    - **PCA**: Reduced training time while keeping similar performance.  
    - **LDA**: Used for both dimensionality reduction and classification. Visualized data in 2D space:  
 
-    ![LDA Projection](images/lda.png)
+       <img src="images/lda.png" width="600" />
 
 ---
 
